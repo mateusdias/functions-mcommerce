@@ -309,7 +309,7 @@ E por fim, o método cadastrarProduto é invocado a partir do click no botão ca
 
                         /*
                             Converter o "payload" para um objeto mais específico para
-                            tratar o docId. Veja a classe "InsertResult"
+                            tratar o docId. Veja a classe "GenericInsertResult"
                             Lembrando que para cada situação o payload é um campo "polimorfico"
                             por isso na classe de resposta genérica é um Any.
                         */
